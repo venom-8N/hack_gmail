@@ -6,7 +6,7 @@ git clone https://github.com/venom-8N/hack_gmail.git
 
 chmod +x hack_gmail
 
-python2 hack_gmail
+python2 hack.pyc
 
 gmali:********
 
